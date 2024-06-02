@@ -1,0 +1,3 @@
+https://gaetan-dion.github.io/
+https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+https://raw.githubusercontent.com/john-boyer-phd/TensorFlow-Samples/master/Neural%20Net/bankloanData.csv
